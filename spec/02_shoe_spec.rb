@@ -1,3 +1,8 @@
+class Shoe
+  def describe
+  end
+end
+
 describe 'Shoe' do
   let(:shoe) { Shoe.new("Nike") }
 
